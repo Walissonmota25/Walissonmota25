@@ -43,7 +43,7 @@ de tecnologia.
 - Aprender programação
 - Criar projetos próprios
 - Desenvolver minhas habilidades
-- Construir meu portfólio
+- Construir meu Portfólio
 - Evoluir profissionalmente na área de tecnologia
 
 ## 📫 Contato
